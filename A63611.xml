@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True narrative of the proceedings at the sessions house in the Old-Bayly which began on Wednesday the 18th of this instant April and ended on Thursday the 19th following giving an account of most of the remarkable trials there, viz. for murder, fellonies, and burglaries &amp;c., with a particular relation of their names and the places of their commiting their facts and the number of those condemned to die, burn'd in the hand, transported, and to be whipt.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63611</idno>
+            <idno type="STC">Wing T2831</idno>
+            <idno type="STC">ESTC R27027</idno>
+            <idno type="EEBO-CITATION">09619058</idno>
+            <idno type="OCLC">ocm 09619058</idno>
+            <idno type="VID">43833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43833)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1344:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True narrative of the proceedings at the sessions house in the Old-Bayly which began on Wednesday the 18th of this instant April and ended on Thursday the 19th following giving an account of most of the remarkable trials there, viz. for murder, fellonies, and burglaries &amp;c., with a particular relation of their names and the places of their commiting their facts and the number of those condemned to die, burn'd in the hand, transported, and to be whipt.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langly Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Entered according to order."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:43833:1"/>
+            <pb n="1" facs="tcp:43833:1"/>
+            <head>THE TRUE NARRATIVE OF THE PROCEEDINGS AT The Seſſions Houſe IN THE OLD-BAYLY which began on <hi>Wedneſday</hi> the 18th of this Inſtant <hi>April</hi> and ended on <hi>Thurſday</hi> the 19th following; Giving an Account of moſt of the Remarkable Trials there, <hi>viz.</hi> For Murder Fellonies and Burglaries, <hi>&amp;c.</hi> with a particular Relation of their Names and the places of their commiting their Facts, and the number of thoſe Condemn<g ref="char:EOLhyphen"/>ed to die, Burn'd in the Hand, Tranſported and to be whipt.</head>
+            <p>
+               <hi>Entered according to ORDER.</hi>
+            </p>
+            <p>AT the Seſſions of <hi>Oyer</hi> and <hi>Terminer</hi> that began at the <hi>Old-Bay<g ref="char:EOLhyphen"/>ly</hi> on <hi>Wedneſday</hi> the 18th of <hi>April</hi> and ended the 19th of the ſame Inſtant. The proceedings were theſe</p>
+            <p>
+               <hi>Mary Smith</hi> was Indicted and Tryed for ſtealing a Coat and waſtcoat on the 22th of <hi>February</hi> laſt from <hi>Allen Tuller</hi> of St. <hi>Anns Black Fryers</hi> whereupon it was Sworn againſt her that ſhe had ſold them and confeſſed that ſhe took them from the houſe of the proſecutor who was then her Maſter; to which ſhe pleaded Ignorance as to the theft, Saying ſhe received them of a young man then Lodging in the houſe with whom ſhe had ſome Small acquain<g ref="char:EOLhyphen"/>tance at Cambridge e're ſhe came to London and that he told her the cloaths were his own and therefore deſired her to ſell them for him, but no manner of proof appearing to confirme what ſhe Alledged the <hi>Jury</hi> found her Guilty, though only to the Value of 10 <abbr>d.</abbr>
+            </p>
+            <p>
+               <hi>Ralph Philips,</hi> was Indicted for killing <hi>John Hern</hi> on the firſt of <hi>March</hi> laſt, the manner thus; the Priſoner, and the deceaſed drinking in a <hi>Tavern</hi> in the <hi>Savoy</hi> with divers other Gentlemen, the deceaſed being in drink, groſly abuſed the Priſoner, and notwithſtanding all the intreatys that could be uſed to perſwade him to the Contrary could not cauſe him to reſt ſatisfied, but following the Priſoner after his departure from the ſaid-<hi>Tavern</hi> vvould oblige to fight him, in vvhich conflict <hi>Hern</hi> received a mortal vvound under his left Pap of vvhich he vvithin an hours ſpace died, but no premeditated Malice appearing the Priſoner vvas found Guilty of Manſlaughter.</p>
+            <pb n="2" facs="tcp:43833:2"/>
+            <p>
+               <hi>Richard Thacrell</hi> being Indicted for ſtealing a Silver tankard upon his Arraignment pleaded Guilty to that and all other Indictments under the benefit of Clergy.</p>
+            <p>
+               <hi>James Hull</hi> being Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wiſe Indicted for Robing the Earl of <hi>Powis</hi> on the 15th of February laſt of 15 Pounds pleaded Guilty to his In<g ref="char:EOLhyphen"/>dictment.</p>
+            <p>
+               <hi>William Hugds</hi> was in Indicted for picking the pocket of the wife of one <hi>Frances Heming</hi> in <hi>leaden-Hall-Street</hi> who upon his A<g ref="char:EOLhyphen"/>raignment pleading not Guilty it was Sworn againſt him by the proſecutor that ſhe took his hand in her pocket but that being too ſtrong for her he got away carrying with him a box and other things valued at ſix ſhillings and that upon her crying, after him he was Stopt though upon Search the ſaid box was not found about him yet it was conjectured (as uſual it is) that he had his receivers at hand to whom he delivered his prize and he having been an old Offendor he was found Guilty.</p>
+            <p>
+               <hi>Thomas Smith</hi> was indicted for ſtealing a copper pot, a kettle, Sauce<g ref="char:EOLhyphen"/>pan, ſpoons peuter plates and the Like on the 7 of March laſt from <hi>Henry Buttler</hi> of <hi>Steptny;</hi> the which upon his tryal appearing only that one of the pots Loſt was found to be ſold by him to a brazier; to counter ballance which he brought witneſſes to prove that he bought the ſaid pot of one <hi>Jones</hi> now priſoner in new-gate for the ſaid Robery and that he gave a Market price for it being his trade to buy things at ſecond hand' whereupon he was acquitted of that Indictment.</p>
+            <p>
+               <hi>Mary Baly,</hi> was Indicted for ſtealing a <hi>Mantu Gown,</hi> a pair of <hi>Silk Stockings, a Scarf,</hi> a pair of <hi>Holland-Sleeves, Porrengers,</hi> &amp;c. on the 28th of <hi>February</hi> laſt, out of the Houſe of <hi>John Webly,</hi> of St. <hi>Giles</hi>'s in the <hi>Fields.</hi> where ſhe lived in the nature of a Servant; to which upon her Arraignment ſhe pleaded not Guilty, but after the Fact by the Evi<g ref="char:EOLhyphen"/>dence was plainly proved, ſhe confeſſed that an Old Woman ſuppoſed now be her Confederate, and in whoſe cuſtody part of the Goods were found, took them by her Permiſſion, in the abſence of her Ma<g ref="char:EOLhyphen"/>ſter and Miſtris; upon which the <hi>Jury</hi> brought her in Guilty of the Fellony.</p>
+            <p>
+               <hi>Elizabeth Cherry,</hi> was Indicted for that ſhe on the 13th. of <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> laſt, Robbed the Houſe of one Mr. <hi>Quarles</hi> of St. <hi>Giles</hi>'s in the <hi>Fields,</hi> of a <hi>Pette-Cout, Sleves,</hi> and other Linnen, to a conſiderable va<g ref="char:EOLhyphen"/>lue, which being proved againſt her, as found where ſhe had diſpoſed of them: and alſo in her Examination before the Juſtice, who com<g ref="char:EOLhyphen"/>mitted her, ſhe had confeſſed the Fact: and ſhe now hardly denying it, was found Guilty.</p>
+            <p>
+               <hi>William Sims,</hi> was Indicted for ſtealing a <hi>Silver Tankard</hi> valued at ſix pounds, from <hi>Elizabeth Freeman,</hi> at the <hi>Crown</hi> in the Old <hi>Pa<g ref="char:EOLhyphen"/>lace-Tard Weſtminſter,</hi> to which upon his Arraignment, he pleaded not Guilty whereupon the Womans Daughter, who loſt the <hi>Tan<g ref="char:EOLhyphen"/>kard</hi> was ſworn; who gave Evidence that ſuch a manner of man came in and called for a <hi>Tankard</hi> of <hi>Beer,</hi> and whilſt ſhe was buſie below ſtares ſlid down from the Balcony and Marched off with the tankard but a long time bogled in her Euidence ere ſhe would charge the pri<g ref="char:EOLhyphen"/>ſoner to be the man which made the court ſuſpect that ſhe had been tampered with and that ſhe might the better know him Cauſed his
+<pb n="3" facs="tcp:43833:2"/>great Coat to be pulled off upon which ſhe knowing the ſuit of Cloaths to be the ſame with thoſe the perſon wore, when the <hi>Tan<g ref="char:EOLhyphen"/>kard</hi> was loſt ſwore him poſſitively to be the man, and he no way able to give any account of himſelf, having been once before pardoned he now was found Guilty.</p>
+            <p>
+               <hi>Robert Savage</hi> a Soldier, was Indicted for ſhooting one <hi>Philip Ruſ<g ref="char:EOLhyphen"/>ſel</hi> his fellow Soldier. The manner (as upon his Tryal it appeared) thus, the Priſoner being ſet Sentinel, the deceaſed and an other Sol<g ref="char:EOLhyphen"/>dier coming along, the deceaſed in a jeſting manner, ſaid to the o<g ref="char:EOLhyphen"/>ther here's the Rogue <hi>Savage</hi> lets kill him; and not thinking further harm paſſed him, who Cocking his Piece ſwore he would kill him firſt, and thereupon fired, ſo that the Bullet entering under his Short-Ribs went out behind, of which within two hours he died. The Priſo<g ref="char:EOLhyphen"/>ner being demanded what he could ſay for himſelf, alledged that he did but his Duty, and that he prevented the other from killing him, and for ought he knew he had a deſign to ſeize the <hi>Tower,</hi> with many ſuch frivelous excuſes, but it appearing that he offered him no hurt, nor ſo much as took his Piece from off his Shoulder, <hi>Savage</hi> was found Guilty of willful Murther.</p>
+            <p>
+               <hi>Philip Johnſon</hi> was likwiſe tryed for killing <hi>John Mills</hi> a Child not abov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> half a year old on the 14th of <hi>March</hi> laſt, the manner thus, he com<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng into the houſe of the Mother of the Child living in St. <hi>Mar<g ref="char:EOLhyphen"/>tins</hi> in the <hi>Fields,</hi> and calling for <hi>Brandy,</hi> would have gone up Stairs with a Woman he pretended to be his Wife, but the Woman of the houſe not permitting it he fell to raling and abuſing her after a groſs rate, but in the end ſhe got him out of the Dores: but not ſatisfied (or as he ſaid himſelf) fully revenged 3 days after he came again, and fell to breaking the Windows, to prevent which the Woman with her Child in her Arms Endeavouring he ſtruck at her, and whether miſſing his blow, or that he did it purpoſely is uncertain, hit the Child ſuch a blow on the head, that within a ſhort time it died, but the <hi>Ju<g ref="char:EOLhyphen"/>ry</hi> not imagining that he wilfully ſtruck the Child, brought him in Guilty of Manſlaughter.</p>
+            <p>
+               <hi>Samuel Lambert,</hi> was Indicted for ſtealing a Gelding twenty pounds price, from a perſon in <hi>Hertford-ſhire,</hi> which he expoſed to ſail for the ſum of fifty Shillings, upon which he was apprehended (who up<g ref="char:EOLhyphen"/>on his Tryal pleaded that he bought him of a man upon, or near, <hi>Hounſlow-Heath</hi> for thirty four Shillings, but neither able to produce the perſon, nor give any ſatisfactory account of his own Life and Reputation he was found Guilty.</p>
+            <p>
+               <hi>Elizabeth Clark,</hi> of St. <hi>Pauls Convent-Garden,</hi> was Tryed of an Ac<g ref="char:EOLhyphen"/>ceſſory to the Death of Sir <hi>William Throckmorton,</hi> killed by one <hi>James Stanier</hi> in the 28th of <hi>June</hi> laſt, the ſaid <hi>Stanier</hi> being fled and out-lawed for the ſame, the Circumſtances as they appeared upon E<g ref="char:EOLhyphen"/>vidence were theſe houſe the deceaſed coming to the Priſoners: ſomwhat in drink, &amp; gave ſeveral abuſive words to <hi>Stanies</hi> who lodged there, for which the Priſoner rebuking him &amp; he rufly handling her, ſhe ſaid that <hi>Mr. Stanier</hi> or his brother, ſhould take ſatisfaction, when the next day a letter coming to the deceaſed, he met <hi>Stanier</hi> at the <hi>Spring-Garden</hi> in <hi>Weſtminſter,</hi> where fighting Sir <hi>William</hi> was ſlain, but o<g ref="char:EOLhyphen"/>ther Evidence in the behalf of the Priſoner Counterballancing what had been ſaid againſt her ſhe was acquitted.</p>
+            <pb n="4" facs="tcp:43833:3" rendition="simple:additions"/>
+            <p>
+               <hi>William Griffeth,</hi> and <hi>James Griffeth,</hi> were Tryed for ſtealing, a <hi>Bea<g ref="char:EOLhyphen"/>ver-Hat,</hi> valued at 40. <abbr>
+                  <hi>s.</hi>
+               </abbr> from <hi>John Goodwin,</hi> of which the former being Convicted, the latter confeſſed the Fellony.</p>
+            <p>
+               <hi>John Littleton, Alias Bants,</hi> was Tryed for picking the pocket of <hi>Margret Haly,</hi> on the 13th. of <hi>March</hi> laſt, in <hi>Cheap-ſide</hi> of ſix twenty-ſhilling pieces of Broad Gold one 22 ſhillings peice a Barbary peice a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d 15. ſhillings in mony but not being taken in the fact nor any of the ſaid Mony found about him he was acquitted.</p>
+            <p>
+               <hi>Elizabeth</hi> whitehead of Dukes place was tryed for cliping and coin<g ref="char:EOLhyphen"/>ing Queen <hi>Elizabeth</hi> ſhillings and <hi>King Charles</hi> the firſt his halfe Crowns ſome of either ſort of which being taken about her at the time of her being apprehended yet the actual coining and cliping not being proved upon her ſhe was acquitted,</p>
+            <p>Peter Mathew was tryed for Robing Richard Brome on the 21 paſt of 4 Silver Tankards 3. Rings 5. Silver ſpoones a ſet of Silver buttons, a Silver ſalt 16 pounds in mony and other things the man<g ref="char:EOLhyphen"/>ner thus he and 5 more coming into the houſe of the proſecutor to drink late watched their opportunity bound the Maſter his ſervants and who ever elſe they layed hands of and then breaking open the doors rifled the houſe and departed which being ſworn in Court againſt the priſoner was found Guilty both of the burglary and fellony</p>
+            <p>
+               <hi>Henry Conway</hi> was tryed for killing <hi>John Grifith</hi> on the 3 of <hi>March</hi> laſt the which upon Evidence appeared that the priſoner and the deceaſed being up together all night and playing at dice the deceaſed loſt and not haveing mony to anſwer his Loſing the priſoner called him cheat at which the deceaſed being offended told him he ſhould anſwer it another time and ſo breaking up they went into Lambs conduet-fields and there fought when after ſeveral paſſes Grifith fell down dead being run into the body 6 Inches the priſoner being like<g ref="char:EOLhyphen"/>wiſe run through the body and wounded in ſeveral other places but but no prepence Malice appearing he was found Guilty only of Man<g ref="char:EOLhyphen"/>ſlaughter.</p>
+            <p>
+               <hi>Henry Roſſeſton</hi> was Indicted for Killing <hi>Stephen Low</hi> on the 30th of <hi>March</hi> laſt near the May pole in the Strand the quarrell arriſing about the priſoners taking the part of a woman that the deceaſed and ſome other of his companions were abuſing her in the Street upon which provocative words and blows paſſing on both ſides the priſon<g ref="char:EOLhyphen"/>er wounded <hi>Low</hi> in the breſt with his ſword of which wound he In<g ref="char:EOLhyphen"/>ſtantly dyed but the meeting being accidental and the miſchiefe done in heat of blood it was found but manſlaughter.</p>
+            <p>
+               <hi>Frances Johnſon</hi> was tryed for ſtealing a crauat Silver buckles a hat and other things from <hi>John Coply</hi> which being proued againſt him he was found Guilty.</p>
+            <p>
+               <hi>Hugh Jones</hi> was tryed for ſtealing 20 pare of Gloves for which upon proofe that he ſtole them and had diſpoſed of them at under rates he was conuicted of the fellong:</p>
+            <p>At this Remarkable Seſſions were 6 burn in the hands <hi>viz Henry Conway Hugh Jones, Henry Roſſinton, Ralph Phillips, Catharin, Stetl,</hi> and <hi>Mary Smith,</hi> 9th orderd for tranſpoted <hi>viz Richard Mackvil, James Hull, willam Griffith, James Griffiuth; william Simes, Phily Johnſon, Thomas Danis Frances Johnſon James Thrner</hi> 6 <hi>receiued</hi> ſentance of death <hi>viz. william Rigl, Peter Mathews Rober, Sauage Samnel Lambert Thomas Care</hi> and <hi>Elzabeth cherry</hi> and 5 Sentanced to be whiped and ſo ended the Seſſiion</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>Langly Curtis,</hi> 1683.</p>
+            <pb facs="tcp:43833:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
